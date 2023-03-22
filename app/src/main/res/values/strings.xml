@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz2101</string>
+    <string name="question1">Луна - это спутник?</string>
+    <string name="question2">Солнце - это планета?</string>
+    <string name="question3">Москва - столица РФ?</string>
+    <string name="question4">Зимой солнце ближе к земле?</string>
+    <string name="question5">HTML - это язык программирования?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="showAnswer">Показать ответ</string>
+</resources>
